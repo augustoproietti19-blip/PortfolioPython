@@ -1,1 +1,2 @@
-
+Descrizione del progetto
+Questo progetto è la simulazione di un software per la biblioteca ...
